@@ -1,0 +1,4 @@
+Django
+django-allauth
+django-debug-toolbar
+psycopg2-binary

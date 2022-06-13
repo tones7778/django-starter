@@ -4,3 +4,5 @@ __pychache__
 *.log
 *.pyc
 db.sqlite3
+backups
+src
